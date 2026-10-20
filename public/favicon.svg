@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="finoraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#finoraGrad)" />
+  <g fill="none" stroke="#FFFFFF" stroke-width="36" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="160" y1="140" x2="352" y2="140" />
+    <line x1="160" y1="205" x2="320" y2="205" />
+    <path d="M 212 140 L 212 270 C 290 270 290 140 212 140 Z" />
+    <line x1="212" y1="270" x2="352" y2="400" />
+  </g>
+</svg>
